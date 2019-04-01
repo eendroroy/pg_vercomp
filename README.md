@@ -1,3 +1,8 @@
+# This plugin is obsolete.
+## _Checkout new plugin: https://github.com/eendroroy/pg_semver_
+
+_______________________________________________________________________
+
 # vercomp
 
 [![GitHub tag](https://img.shields.io/github/tag/eendroroy/pg_vercomp.svg)](https://github.com/eendroroy/pg_vercomp/tags)
